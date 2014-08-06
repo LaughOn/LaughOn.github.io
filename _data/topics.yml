@@ -1,0 +1,34 @@
+- topic: Instructions
+  filename: c-instructions.html
+  child: false
+  publish: true
+
+- topic: How to download LibreOffice
+  filename: t-download.html
+  child: false
+  publish: true
+
+- topic: How to use LibreOffice as a word editor
+  filename: t-wordeditor.html
+  child: true
+  publish: true
+
+- topic: How to write a letter in LibreOffice
+  filename: t-letter.html
+  child: true
+  publish: true
+
+- topic: How to create a spreadsheet in LibreOffice
+  filename: t-spreadsheet.html
+  child: true
+  publish: true
+
+  topic: How to create a presentation in LibreOffice
+  filename: t-presentation.html
+  child: true
+  publish: true
+
+  topic: References
+  filename: r-references.html
+  child: false
+  publish: true
